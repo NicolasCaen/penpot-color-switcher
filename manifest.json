@@ -1,0 +1,10 @@
+{
+  "name": "Style Switcher",
+  "id": "com.penpot.plugin.style-switcher",
+  "version": "1.0.0",
+  "description": "Switch between color styles for selected elements.",
+  "author": "Votre Nom",
+  "main": "index.js",
+  "icon": "paint-brush",
+  "permissions": ["read", "write"]
+}
